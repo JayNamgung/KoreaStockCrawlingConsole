@@ -1,5 +1,5 @@
 # KoreaStockCrawlingConsole
-<b>It is a pprogram that crawls and shows Korean Stocks from Naver Finance.</b>
+<b>It is a program that crawls and shows Korean Stocks from Naver Finance.</b>
 
 Eclipse
 <br>
